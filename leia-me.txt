@@ -1,2 +1,3 @@
 este é meu primeiro projeto com Git.
 este projeto agora contem um plano de aula
+Mais umm  texto para treinar
